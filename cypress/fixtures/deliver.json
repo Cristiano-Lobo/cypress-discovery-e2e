@@ -1,0 +1,47 @@
+{
+    "signup": {
+        "name": "Jander",
+        "cpf": "37319078015",
+        "email": "qa@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "3088888888",
+            "street": "Rua x",
+            "number": "1000",
+            "district": "Vila da Serra",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Jander",
+        "cpf": "373190780xx",
+        "email": "qa@gmail.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "3088888888",
+            "street": "Rua x",
+            "number": "1000",
+            "district": "Vila da Serra",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Jander",
+        "cpf": "37319078015",
+        "email": "teste.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "3088888888",
+            "street": "Rua x",
+            "number": "1000",
+            "district": "Vila da Serra",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}

@@ -1,0 +1,19 @@
+    /*     beforeEach(function () {
+            cy.fixture('deliver.json').then((item) => {
+                this.deliver = item  // o this esta sendo usado para poder ter acesso as informações nos outros casos de teste
+            }) //fixture é uma função do cypress que obtem a massa de teste
+        }) */
+
+    /*  before(function () {
+          cy.log('Tudo aqui é executado uma única vez antes de TODOS OS casos de testes')
+      })
+      beforeEach(function () {
+          cy.log('aqui é executado sempre antes de cada caso de teste')
+      })
+      after(function () {
+          cy.log('aqui é executado uma única vez depois de todos os casos de testes')
+  
+      })
+      afterEach(function () {
+          cy.log('aqui é executado sempre DEPOIS  de cada caso de teste')
+      })*/
