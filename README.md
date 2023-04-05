@@ -53,7 +53,7 @@ Camada na pirâmide de testes:
 
 ⚠️ IMPORTANTE:
 
-- Para conseguir executar os testes necessida da aplicação web fornecido no curso do Fernando Papito. 
+- Para conseguir executar os testes necessita da aplicação web fornecido no curso do Fernando Papito. 
 
 ```
 
